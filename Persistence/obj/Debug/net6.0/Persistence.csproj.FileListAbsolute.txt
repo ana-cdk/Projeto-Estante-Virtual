@@ -1,0 +1,45 @@
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Faculdade\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Faculdade Backup\Programação\Programação Orientada a Objetos\Projeto Final - Estante Virtual\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Faculdade\Programação\POO\EstanteVirtual\Persistence\obj\Debug\net6.0\ref\Persistence.dll
